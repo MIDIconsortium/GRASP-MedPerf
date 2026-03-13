@@ -34,6 +34,19 @@ labels/
   ...
 ```
 
+### MedPerf CLI
+
+Clone the MedPerf repository and install the CLI into a dedicated [conda environment](https://www.anaconda.com/docs/getting-started/miniconda/install) with Python 3.11:
+
+```bash
+git clone https://github.com/mlcommons/medperf.git
+conda create -n medperf python=3.11
+conda activate medperf
+pip install ./medperf/cli
+```
+
+Activate the environment before running any of the commands below.
+
 ### MedPerf Web UI
 
 Start the MedPerf Web UI:

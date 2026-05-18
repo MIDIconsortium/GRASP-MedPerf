@@ -6,7 +6,7 @@ This guide covers everything a data site operator needs to participate in the GR
 
 ### MedPerf account
 
-Create an account at <https://www.medperf.org/> and log in.
+Sign up for an account at <https://www.medperf.org/>. You will log in later from the MedPerf Web UI you start locally (see below).
 
 ### Data format
 
@@ -54,6 +54,8 @@ Start the MedPerf Web UI:
 ```bash
 medperf_webui
 ```
+
+Open the Web UI in your browser and click the **Login** button to sign in with the account you created above.
 
 ---
 
@@ -112,7 +114,7 @@ On your dataset page, click **Associate with benchmark** to submit a participati
 
 ![Request association](https://docs.medperf.org/images/webui/dataset_request_association.png)
 
-Benchmarking cannot proceed until the benchmark owner approves your request and grants your account access to the encrypted model. You will be notified once this is done.
+Benchmarking cannot proceed until the benchmark owner approves your request and grants your account access to the encrypted model. Approval is automated and runs every 12 hours, so allow up to 12 hours between requesting association and proceeding to Step 5.
 
 ---
 

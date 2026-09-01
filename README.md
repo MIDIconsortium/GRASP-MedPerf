@@ -6,7 +6,7 @@ This guide covers everything a data site operator needs to participate in the GR
 
 ### MedPerf account
 
-Sign up for an account at <https://www.medperf.org/>. You will log in later from the MedPerf Web UI you start locally (see below).
+Sign up for an account at <https://signup.medperf.org>. You will log in later from the MedPerf Web UI you start locally (see below).
 
 ### Data format
 
